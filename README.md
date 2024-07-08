@@ -6,4 +6,4 @@ O desafio proposto tem como objetivo avaliar os conhecimentos de análise de dad
 
 [Link para a Planilha Google](https://docs.google.com/spreadsheets/d/1YoE2CXKeFbHV_Hys-Umachb2uQ0ANB_LfFaD-ISgeck/edit?usp=sharing)
 
-[Link para a Dashboard Power BI](https://app.powerbi.com/view?r=eyJrIjoiNTVmNjg3ZTUtZTliNy00ZGUyLWIzYjctZmNhOTUzOWY5YTllIiwidCI6ImYwMDYxN2E3LWU4ZmItNDY4ZC1iODVkLWRkMjZlZTRhZjJiZSJ9)
+[Link para o Dashboard Power BI](https://app.powerbi.com/view?r=eyJrIjoiNTVmNjg3ZTUtZTliNy00ZGUyLWIzYjctZmNhOTUzOWY5YTllIiwidCI6ImYwMDYxN2E3LWU4ZmItNDY4ZC1iODVkLWRkMjZlZTRhZjJiZSJ9)
